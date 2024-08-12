@@ -173,7 +173,7 @@ def main():
         -moz-animation: colorChange 5s infinite;
         -o-animation: colorChange 5s infinite;
         color: #D5D3D6;
-    ">Hola, soy Mark2, asistente inteligente con el proósito de facilitar desiciones</h1>
+    ">Hola, soy Mark2, asistente inteligente con el propósito de aprender y responder en base a conocimiento cargado</h1>
         <h3 style='text-align: center; color: #888888;'>¿En qué puedo ayudarte?</h3>
         """,
         unsafe_allow_html=True
